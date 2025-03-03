@@ -1,0 +1,20 @@
+from sklearn.preprocessing import LabelEncoder
+    Contoh label_encoder_--- = LabelEncoder()
+    df['x'] = label_encoder_---.fit_transform(df['x'])
+    fungsinya untuk membagi data dari string menjadi int
+
+missing_values = data.isnull().sum()
+
+
+
+# Kolom yang akan dihapus
+    columns_to_drop = ['ID', 'Model', 'Doors', 'Wheel', 'Color']
+
+    # Menghapus kolom
+    df = df.drop(columns=columns_to_drop)
+
+    # Menampilkan data setelah kolom-kolom yang tidak relevan dihapus
+    print(df.head())
+
+# Menghapus baris duplikat
+    df = df.drop_duplicates()

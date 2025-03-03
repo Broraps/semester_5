@@ -1,0 +1,101 @@
+Usia (bulan),Berat Badan (kg),Tinggi Badan (cm),Lingkar Kepala (cm),Lingkar Lengan Atas (cm),Jenis Kelamin,Status Ekonomi Keluarga,Asupan Gizi Harian (kcal),Riwayat Penyakit,Tingkat Aktivitas Fisik,Status Imunisasi,Label Status Gizi
+40,8.3,108,44.6,17.7,Perempuan,Rendah,588,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Kurang
+41,19.0,61,47.5,16.3,Perempuan,Rendah,1263,Pernah Diare,Tinggi,Lengkap,Gizi Kurang
+22,17.0,69,40.6,16.3,Perempuan,Tinggi,843,Pernah Diare,Tinggi,Sebagian,Gizi Kurang
+13,12.5,96,45.2,13.4,Perempuan,Rendah,531,Tidak Ada,Sedang,Lengkap,Gizi Baik
+31,15.8,68,42.7,16.5,Laki-laki,Tinggi,1118,Infeksi Pernapasan,Tinggi,Tidak Ada,Gizi Baik
+46,9.8,81,43.5,13.2,Perempuan,Menengah,1358,Tidak Ada,Sedang,Tidak Ada,Gizi Buruk
+35,17.4,86,41.2,13.6,Laki-laki,Rendah,713,Tidak Ada,Rendah,Sebagian,Gizi Baik
+25,16.4,91,49.0,17.8,Laki-laki,Menengah,831,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Baik
+14,8.7,103,47.4,15.3,Perempuan,Tinggi,504,Infeksi Pernapasan,Sedang,Lengkap,Gizi Buruk
+59,18.0,64,49.5,13.2,Laki-laki,Tinggi,581,Pernah Diare,Tinggi,Sebagian,Gizi Kurang
+60,12.5,108,48.1,17.4,Laki-laki,Tinggi,816,Infeksi Pernapasan,Tinggi,Sebagian,Gizi Kurang
+23,10.2,97,44.2,13.9,Perempuan,Menengah,1182,Infeksi Pernapasan,Tinggi,Tidak Ada,Gizi Kurang
+15,10.9,89,44.7,15.1,Perempuan,Rendah,1227,Infeksi Pernapasan,Sedang,Lengkap,Gizi Baik
+39,13.4,70,41.4,14.8,Perempuan,Rendah,1192,Pernah Diare,Rendah,Lengkap,Gizi Kurang
+48,17.8,65,44.4,14.0,Perempuan,Rendah,1277,Tidak Ada,Sedang,Lengkap,Gizi Kurang
+16,14.5,90,46.3,17.2,Laki-laki,Menengah,1294,Infeksi Pernapasan,Tinggi,Tidak Ada,Gizi Baik
+32,13.3,83,42.3,17.6,Laki-laki,Rendah,686,Tidak Ada,Sedang,Lengkap,Gizi Baik
+38,8.1,63,44.7,16.7,Laki-laki,Tinggi,1201,Tidak Ada,Rendah,Sebagian,Gizi Baik
+20,8.3,67,40.6,17.1,Perempuan,Rendah,501,Infeksi Pernapasan,Rendah,Sebagian,Gizi Buruk
+56,18.1,91,46.5,15.4,Laki-laki,Rendah,1360,Tidak Ada,Rendah,Tidak Ada,Gizi Buruk
+53,18.4,62,44.1,12.5,Perempuan,Rendah,979,Pernah Diare,Sedang,Sebagian,Gizi Buruk
+12,9.5,92,41.6,13.0,Perempuan,Tinggi,944,Tidak Ada,Tinggi,Lengkap,Gizi Buruk
+52,11.5,65,49.7,16.2,Perempuan,Tinggi,1007,Pernah Diare,Tinggi,Sebagian,Gizi Baik
+13,9.3,67,47.8,15.1,Laki-laki,Menengah,562,Infeksi Pernapasan,Sedang,Lengkap,Gizi Buruk
+20,8.6,85,40.3,17.8,Laki-laki,Menengah,1308,Pernah Diare,Rendah,Lengkap,Gizi Baik
+50,6.3,101,47.1,13.2,Perempuan,Menengah,1305,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Buruk
+12,10.3,62,40.6,12.6,Laki-laki,Menengah,568,Infeksi Pernapasan,Rendah,Sebagian,Gizi Baik
+34,13.9,89,49.9,15.0,Perempuan,Tinggi,955,Tidak Ada,Sedang,Lengkap,Gizi Baik
+15,14.7,110,49.4,12.9,Perempuan,Rendah,982,Infeksi Pernapasan,Rendah,Tidak Ada,Gizi Buruk
+46,8.4,101,48.7,16.7,Perempuan,Rendah,604,Infeksi Pernapasan,Sedang,Lengkap,Gizi Baik
+54,9.6,79,41.7,16.8,Perempuan,Rendah,1422,Pernah Diare,Rendah,Tidak Ada,Gizi Kurang
+15,13.1,90,41.0,12.0,Perempuan,Menengah,933,Tidak Ada,Rendah,Tidak Ada,Gizi Baik
+9,19.2,88,41.6,16.9,Laki-laki,Menengah,548,Infeksi Pernapasan,Sedang,Tidak Ada,Gizi Kurang
+45,13.0,71,48.3,13.4,Laki-laki,Tinggi,1260,Tidak Ada,Sedang,Tidak Ada,Gizi Buruk
+58,9.8,68,46.5,14.5,Laki-laki,Menengah,1389,Tidak Ada,Rendah,Sebagian,Gizi Baik
+40,19.9,61,40.9,12.3,Perempuan,Tinggi,1366,Pernah Diare,Tinggi,Tidak Ada,Gizi Kurang
+24,17.9,66,46.8,13.3,Perempuan,Tinggi,1479,Tidak Ada,Sedang,Sebagian,Gizi Baik
+14,8.6,69,46.2,15.6,Perempuan,Rendah,1252,Infeksi Pernapasan,Rendah,Lengkap,Gizi Kurang
+29,9.3,81,41.0,17.0,Perempuan,Rendah,1439,Pernah Diare,Sedang,Sebagian,Gizi Buruk
+29,6.4,89,44.6,15.4,Laki-laki,Rendah,1375,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Kurang
+34,11.2,105,40.5,12.8,Perempuan,Menengah,1037,Tidak Ada,Rendah,Lengkap,Gizi Kurang
+6,7.0,97,41.7,14.4,Perempuan,Menengah,1350,Tidak Ada,Sedang,Sebagian,Gizi Baik
+29,15.5,92,42.4,13.4,Laki-laki,Rendah,795,Tidak Ada,Rendah,Lengkap,Gizi Kurang
+25,8.1,66,42.7,17.7,Perempuan,Menengah,744,Pernah Diare,Tinggi,Tidak Ada,Gizi Kurang
+33,10.3,84,46.7,12.4,Laki-laki,Tinggi,1442,Pernah Diare,Tinggi,Tidak Ada,Gizi Buruk
+21,6.9,79,41.7,13.4,Perempuan,Rendah,1457,Tidak Ada,Rendah,Lengkap,Gizi Kurang
+11,15.5,84,40.2,16.3,Perempuan,Menengah,745,Tidak Ada,Rendah,Lengkap,Gizi Baik
+21,19.3,80,42.1,15.6,Perempuan,Menengah,919,Infeksi Pernapasan,Rendah,Tidak Ada,Gizi Baik
+8,19.0,69,44.8,13.9,Perempuan,Tinggi,743,Infeksi Pernapasan,Rendah,Lengkap,Gizi Baik
+20,18.3,97,46.6,15.0,Perempuan,Tinggi,586,Pernah Diare,Tinggi,Lengkap,Gizi Kurang
+16,15.5,97,43.6,13.0,Perempuan,Menengah,1056,Infeksi Pernapasan,Tinggi,Sebagian,Gizi Baik
+54,19.4,73,46.1,15.0,Perempuan,Rendah,1245,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Kurang
+57,7.4,84,48.6,17.6,Perempuan,Rendah,798,Tidak Ada,Tinggi,Tidak Ada,Gizi Kurang
+8,6.5,81,46.4,12.4,Perempuan,Rendah,920,Infeksi Pernapasan,Rendah,Sebagian,Gizi Baik
+35,17.3,97,44.6,13.8,Perempuan,Tinggi,1104,Infeksi Pernapasan,Tinggi,Tidak Ada,Gizi Kurang
+45,11.4,64,47.3,12.3,Laki-laki,Rendah,1241,Tidak Ada,Sedang,Tidak Ada,Gizi Baik
+25,10.9,68,44.9,14.0,Laki-laki,Menengah,1014,Pernah Diare,Sedang,Sebagian,Gizi Kurang
+42,12.7,103,43.5,16.3,Laki-laki,Rendah,1135,Infeksi Pernapasan,Rendah,Lengkap,Gizi Buruk
+32,5.7,63,43.5,16.6,Perempuan,Rendah,817,Infeksi Pernapasan,Rendah,Sebagian,Gizi Baik
+34,14.2,94,42.9,16.2,Laki-laki,Tinggi,1184,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Kurang
+14,12.2,76,47.3,12.3,Perempuan,Menengah,786,Infeksi Pernapasan,Sedang,Sebagian,Gizi Buruk
+50,11.0,92,42.7,14.4,Perempuan,Menengah,1446,Pernah Diare,Rendah,Tidak Ada,Gizi Baik
+48,18.6,110,44.6,17.8,Laki-laki,Tinggi,1058,Pernah Diare,Tinggi,Tidak Ada,Gizi Baik
+58,17.7,95,48.6,17.2,Perempuan,Tinggi,1097,Pernah Diare,Tinggi,Lengkap,Gizi Baik
+6,18.3,63,44.2,14.3,Perempuan,Menengah,549,Infeksi Pernapasan,Rendah,Sebagian,Gizi Buruk
+41,11.3,98,42.7,16.4,Perempuan,Rendah,1224,Infeksi Pernapasan,Sedang,Sebagian,Gizi Kurang
+27,10.8,84,49.0,16.4,Perempuan,Menengah,1220,Infeksi Pernapasan,Tinggi,Tidak Ada,Gizi Baik
+35,16.2,60,42.0,13.1,Perempuan,Rendah,500,Tidak Ada,Rendah,Sebagian,Gizi Buruk
+23,18.3,97,49.8,13.4,Laki-laki,Menengah,616,Infeksi Pernapasan,Sedang,Sebagian,Gizi Buruk
+55,17.1,106,43.0,14.4,Perempuan,Rendah,1244,Tidak Ada,Rendah,Tidak Ada,Gizi Buruk
+19,11.6,105,47.8,13.3,Perempuan,Tinggi,687,Pernah Diare,Rendah,Sebagian,Gizi Buruk
+25,9.4,70,40.8,17.7,Perempuan,Rendah,1319,Infeksi Pernapasan,Sedang,Lengkap,Gizi Baik
+55,9.2,74,40.5,17.1,Perempuan,Tinggi,879,Pernah Diare,Sedang,Tidak Ada,Gizi Buruk
+50,13.1,88,40.8,12.1,Perempuan,Menengah,632,Tidak Ada,Tinggi,Tidak Ada,Gizi Baik
+43,15.0,96,45.8,12.7,Laki-laki,Tinggi,876,Tidak Ada,Rendah,Lengkap,Gizi Buruk
+49,14.4,76,46.4,17.3,Perempuan,Menengah,1283,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Baik
+53,19.5,101,43.9,12.0,Perempuan,Rendah,1399,Infeksi Pernapasan,Rendah,Lengkap,Gizi Kurang
+41,14.5,66,48.3,12.9,Perempuan,Menengah,686,Tidak Ada,Rendah,Sebagian,Gizi Kurang
+52,15.7,103,45.8,17.9,Laki-laki,Menengah,501,Tidak Ada,Rendah,Tidak Ada,Gizi Kurang
+21,8.4,74,45.5,13.1,Perempuan,Tinggi,1191,Pernah Diare,Rendah,Lengkap,Gizi Buruk
+32,5.7,100,41.6,15.2,Perempuan,Rendah,853,Infeksi Pernapasan,Sedang,Sebagian,Gizi Baik
+7,9.4,71,43.1,17.0,Perempuan,Tinggi,514,Tidak Ada,Rendah,Lengkap,Gizi Kurang
+25,19.4,97,41.6,12.4,Laki-laki,Tinggi,1410,Pernah Diare,Sedang,Tidak Ada,Gizi Buruk
+33,7.4,65,43.5,12.1,Laki-laki,Rendah,1200,Tidak Ada,Tinggi,Tidak Ada,Gizi Kurang
+28,6.7,79,49.1,12.6,Laki-laki,Tinggi,724,Pernah Diare,Rendah,Sebagian,Gizi Baik
+39,13.1,97,50.0,13.1,Laki-laki,Menengah,1231,Tidak Ada,Rendah,Lengkap,Gizi Kurang
+47,10.0,108,41.8,13.4,Perempuan,Menengah,1332,Infeksi Pernapasan,Sedang,Sebagian,Gizi Baik
+57,19.1,102,45.8,12.4,Laki-laki,Rendah,677,Tidak Ada,Tinggi,Sebagian,Gizi Buruk
+39,11.3,62,40.1,15.1,Laki-laki,Rendah,1306,Infeksi Pernapasan,Tinggi,Lengkap,Gizi Kurang
+23,18.9,104,45.4,13.8,Perempuan,Menengah,1055,Tidak Ada,Rendah,Lengkap,Gizi Buruk
+24,19.8,97,49.0,14.2,Perempuan,Tinggi,1033,Pernah Diare,Tinggi,Sebagian,Gizi Baik
+50,8.6,98,48.1,15.0,Laki-laki,Tinggi,1215,Pernah Diare,Rendah,Lengkap,Gizi Buruk
+45,18.8,91,43.9,15.1,Laki-laki,Menengah,652,Infeksi Pernapasan,Sedang,Sebagian,Gizi Baik
+60,16.2,84,41.2,16.9,Laki-laki,Tinggi,952,Pernah Diare,Sedang,Sebagian,Gizi Buruk
+30,19.7,91,48.1,13.4,Laki-laki,Menengah,1451,Infeksi Pernapasan,Rendah,Tidak Ada,Gizi Baik
+31,11.3,90,48.1,14.4,Perempuan,Menengah,602,Pernah Diare,Tinggi,Lengkap,Gizi Buruk
+36,18.3,102,48.6,15.4,Perempuan,Tinggi,1318,Tidak Ada,Rendah,Tidak Ada,Gizi Baik
+13,14.7,82,40.0,13.9,Perempuan,Tinggi,969,Pernah Diare,Tinggi,Sebagian,Gizi Baik
+48,6.7,61,43.9,17.9,Perempuan,Tinggi,1187,Infeksi Pernapasan,Rendah,Lengkap,Gizi Baik
+15,11.8,93,47.2,12.9,Laki-laki,Menengah,1090,Tidak Ada,Tinggi,Tidak Ada,Gizi Buruk
